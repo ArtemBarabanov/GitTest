@@ -11,7 +11,7 @@ namespace GitTest
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Коммит в ветке newBranch");
+            Console.WriteLine("Самый последний коммит");
         }
     }
 }
