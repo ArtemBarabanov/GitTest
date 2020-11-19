@@ -12,6 +12,7 @@ namespace GitTest
         {
             Console.WriteLine("Test");
             Console.WriteLine("Test12");
+            Console.WriteLine("Test14");
 
             Console.WriteLine("Коммит в ветке master");
         }
