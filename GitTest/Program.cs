@@ -14,6 +14,7 @@ namespace GitTest
             Console.WriteLine("Test12");
 
             Console.WriteLine("Новая ветка");
+            Console.WriteLine("Новая ветка2");
         }
     }
 }
